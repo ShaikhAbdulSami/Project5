@@ -2,7 +2,7 @@ import React from 'react'
 import '../App.css'
 import Introimg from '../Images/Intro_Brain.svg'
 import Flashimg from '../Images/Intro_Featured_Image_Empty.svg'
-import { Zoom , Bounce , Fade } from 'react-reveal';
+import { Zoom  } from 'react-reveal';
 import Spin from 'react-reveal/Spin';
 
 const Home = () => {
